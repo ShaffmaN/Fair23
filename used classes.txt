@@ -1,0 +1,5 @@
+Generate a pharmeucitacal flower with a background of gradient -  skyblue to pale goldenrod
+
+
+old large div class = bg-opacity-10 bg-gradient-to-b from-[#8BCDFF] from-10% via-[#A2D3E7] via-20% to-[#E8E59F] to-90% w-full h-full
+
